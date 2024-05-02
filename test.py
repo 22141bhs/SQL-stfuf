@@ -14,4 +14,3 @@ def print_all_cars():
 if __name__ == "__main__": 
     print_all_cars()
     print("Hello")
-    #ytfufufu
